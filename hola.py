@@ -1,1 +1,2 @@
 print("Listar")
+print("Buscar")
